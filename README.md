@@ -9,5 +9,5 @@ Use the **place start** button to select a starting point on the grid. <br />
 Use the **place end** button to select an ending point on the grid. <br />
 Use the **place wall** button to make walls in the grid. <br />
 Use the **remove wall** button to remove a cell that is a wall. <br />
-Use the **find shortest path using a* search** to find the shortest path between 'start' and 'end' cells (if one exists).
+Use the **find shortest path using a* search** to find the shortest path between 'start' and 'end' cells (if one exists). <br />
 Use the **reset** button to reset the entire grid.
